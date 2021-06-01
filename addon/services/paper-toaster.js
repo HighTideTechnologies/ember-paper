@@ -3,7 +3,6 @@ import { assign } from '@ember/polyfills';
 import { run } from '@ember/runloop';
 import { A } from '@ember/array';
 import Service from '@ember/service';
-import { tryInvoke } from '@ember/utils';
 import EObject from '@ember/object';
 import config from 'ember-get-config';
 
